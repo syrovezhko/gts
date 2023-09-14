@@ -1,6 +1,6 @@
 "use client"
 
-import React, { useState } from 'react';
+import React from 'react';
 import styles from './Header.module.scss';
 
 import { InputText } from 'primereact/inputtext';
@@ -9,27 +9,32 @@ import { SelectButton } from 'primereact/selectbutton';
 import "primereact/resources/themes/lara-light-indigo/theme.css";  //theme
 import "primereact/resources/primereact.min.css";                  //core css
 import "primeicons/primeicons.css";                                //icons
+import _switch from '@/store/switch';
+import search from '@/store/search';
+import { observer } from 'mobx-react-lite';
 
-
-const Header = () => {
-  const cities = ['Таблица', 'Карточки']
-  const [button, setButton] = useState(cities[0])
-  const [search, setSearch] = useState('')
-  console.log(button)
-  console.log(search)
+const Header = observer(() => {
   return (
     <header className={styles.header}>
       <SelectButton
-        value={button}
-        onChange={(e) => setButton(e.value)}
-        options={cities}
+        value={_switch.button}
+        onChange={(e) => _switch.setButton(e.value)}
+        options={_switch.chose}
       />
       <div className={styles.search}>
-        <InputText value={search} onChange={(e) => setSearch(e.target.value)} />
-        <Button label="Поиск" severity="secondary" text raised />
+        <InputText
+          value={search.value}
+          onChange={(e) => search.setValue(e.target.value)}
+        />
+        <Button
+          label="Поиск"
+          severity="secondary"
+          text
+          raised
+        />
       </div>
     </header>
   );
-};
+});
 
 export default Header;
