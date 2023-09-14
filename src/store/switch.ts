@@ -15,4 +15,4 @@ class Switch {
   }
 }
 
-export default new Switch( )
+export default new Switch()
