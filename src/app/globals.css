@@ -17,3 +17,29 @@ body {
     'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro',
     'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;
 }
+
+.p-button,
+.p-inputtext {
+  border-radius: 0;
+}
+
+.p-button-label {
+  font-weight: 800;
+  font-size: 1.4rem;
+}
+
+.p-button.p-component.p-button-raised.p-button-text.p-button-secondary,
+.p-component {
+  border: 2px solid rgb(54, 52, 52);
+}
+
+.p-selectbutton .p-button.p-highlight,
+.p-selectbutton .p-button.p-highlight.p-focus {
+  background: rgb(57, 128, 172);
+  border: 2px solid rgb(54, 52, 52);
+}
+
+.p-selectbutton.p-buttonset.p-component,
+.p-button.p-component.p-button-raised.p-button-text.p-button-secondary {
+  box-shadow: 2px 2px 2px 1px rgba(54, 52, 52, 0.8);
+}
