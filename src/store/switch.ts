@@ -10,7 +10,7 @@ class Switch {
   }
 
   setButton(e: string){
-    this.button = e
+    if(e) this.button = e
     console.log(this.button)
   }
 }
