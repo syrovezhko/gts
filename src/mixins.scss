@@ -1,0 +1,5 @@
+@mixin container {
+  display: flex;
+  max-width: 128rem;
+  width: 100%;
+}
