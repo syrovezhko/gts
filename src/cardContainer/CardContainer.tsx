@@ -16,7 +16,7 @@ const CardContainer = observer(() => {
           equipment={i.equipment}
           message={i.message}
           importance={i.importance}
-          date={useDate}
+          date={useDate()}
         />)}
     </div>
   );
