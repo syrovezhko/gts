@@ -1,6 +1,5 @@
-import styles from './page.module.css'
-
-export default function Home() {
+"use client"
+import React from 'react';
   return (
     <main className={styles.main}>
     </main>
