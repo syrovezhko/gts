@@ -14,6 +14,5 @@ class Switch {
     if(e) this.button = e
     console.log(this.button)
   }
-}
-
+// eslint-disable-next-line import/no-anonymous-default-export
 export default new Switch()
