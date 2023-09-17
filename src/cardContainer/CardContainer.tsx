@@ -7,16 +7,14 @@ import useDate from '@/hooks/useDate';
 
 const CardContainer = observer(() => {
   return (
-    <div className={styles.container}>
-      {_switch.data.map(i => 
+    <div
+      className={styles.container}
+    >
+      {_switch.data.map((_, i) => 
         <Card
-          key={i.id}
-          user={i.userId}
-          name={i.userName}
-          equipment={i.equipment}
-          message={i.message}
-          importance={i.importance}
+          key={i}
           date={useDate()}
+          i={i}
         />)}
     </div>
   );
