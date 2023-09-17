@@ -29,7 +29,15 @@ class Switch {
   mark(id: number){
     this.current = id
   }
-      })
+
+  checkRead(event: any){
+    event.preventDefault()
+    if(event.code === 'Space') this.data.forEach(i => {
+      if(i.id === this.current){
+        i.isRead = true
+      } else {
+      }
+    })
   }
 }
 
