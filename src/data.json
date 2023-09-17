@@ -5,7 +5,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Высокая",
     "equipment": "Вегас",
-    "message": "Сервер Vegos недоступен"
+    "message": "Сервер Vegos недоступен",
+    "isRead": false
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "userName": "Капустин С.С.",
     "importance": "Низкая",
     "equipment": "Коммутатор",
-    "message": "Потеряно сетевое соединение"
+    "message": "Потеряно сетевое соединение",
+    "isRead": false
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Низкая",
     "equipment": "Люк",
-    "message": "Открытая крышка"
+    "message": "Открытая крышка",
+    "isRead": false
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "userName": "Лавочкин А.В.",
     "importance": "Высокая",
     "equipment": "ИБП",
-    "message": "Низкий заряд батареи"
+    "message": "Низкий заряд батареи",
+    "isRead": false
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "userName": "Ольшанская Е.Г.",
     "importance": "Критическая",
     "equipment": "Трансформатор",
-    "message": "Недостаточное колличество масла"
+    "message": "Недостаточное колличество масла",
+    "isRead": false
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Критическая",
     "equipment": "ЛВС",
-    "message": "Обрыв силового кабеля"
+    "message": "Обрыв силового кабеля",
+    "isRead": false
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Критическая",
     "equipment": null,
-    "message": "Отсутствует подтверждение пуска в работу"
+    "message": "Отсутствует подтверждение пуска в работу",
+    "isRead": false
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Высокая",
     "equipment": "Вегас",
-    "message": "Сервер Vegos недоступен"
+    "message": "Сервер Vegos недоступен",
+    "isRead": false
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "userName": "Капустин С.С.",
     "importance": "Низкая",
     "equipment": "Коммутатор",
-    "message": "Потеряно сетевое соединение"
+    "message": "Потеряно сетевое соединение",
+    "isRead": false
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Низкая",
     "equipment": "Люк",
-    "message": "Открытая крышка"
+    "message": "Открытая крышка",
+    "isRead": false
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "userName": "Лавочкин А.В.",
     "importance": "Высокая",
     "equipment": "ИБП",
-    "message": "Низкий заряд батареи"
+    "message": "Низкий заряд батареи",
+    "isRead": false
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "userName": "Ольшанская Е.Г.",
     "importance": "Критическая",
     "equipment": "Трансформатор",
-    "message": "Недостаточное колличество масла"
+    "message": "Недостаточное колличество масла",
+    "isRead": false
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Критическая",
     "equipment": "ЛВС",
-    "message": "Обрыв силового кабеля"
+    "message": "Обрыв силового кабеля",
+    "isRead": false
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Критическая",
     "equipment": null,
-    "message": "Отсутствует подтверждение пуска в работу"
+    "message": "Отсутствует подтверждение пуска в работу",
+    "isRead": false
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Высокая",
     "equipment": "Вегас",
-    "message": "Сервер Vegos недоступен"
+    "message": "Сервер Vegos недоступен",
+    "isRead": false
   },
   {
     "id": 16,
@@ -125,7 +140,8 @@
     "userName": "Капустин С.С.",
     "importance": "Низкая",
     "equipment": "Коммутатор",
-    "message": "Потеряно сетевое соединение"
+    "message": "Потеряно сетевое соединение",
+    "isRead": false
   },
   {
     "id": 17,
@@ -133,7 +149,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Низкая",
     "equipment": "Люк",
-    "message": "Открытая крышка"
+    "message": "Открытая крышка",
+    "isRead": false
   },
   {
     "id": 18,
@@ -141,7 +158,8 @@
     "userName": "Лавочкин А.В.",
     "importance": "Высокая",
     "equipment": "ИБП",
-    "message": "Низкий заряд батареи"
+    "message": "Низкий заряд батареи",
+    "isRead": false
   },
   {
     "id": 19,
@@ -149,7 +167,8 @@
     "userName": "Ольшанская Е.Г.",
     "importance": "Критическая",
     "equipment": "Трансформатор",
-    "message": "Недостаточное колличество масла"
+    "message": "Недостаточное колличество масла",
+    "isRead": false
   },
   {
     "id": 20,
@@ -157,7 +176,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Критическая",
     "equipment": "ЛВС",
-    "message": "Обрыв силового кабеля"
+    "message": "Обрыв силового кабеля",
+    "isRead": false
   },
   {
     "id": 21,
@@ -165,7 +185,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Критическая",
     "equipment": null,
-    "message": "Отсутствует подтверждение пуска в работу"
+    "message": "Отсутствует подтверждение пуска в работу",
+    "isRead": false
   },
   {
     "id": 22,
@@ -173,7 +194,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Высокая",
     "equipment": "Вегас",
-    "message": "Сервер Vegos недоступен"
+    "message": "Сервер Vegos недоступен",
+    "isRead": false
   },
   {
     "id": 23,
@@ -181,7 +203,8 @@
     "userName": "Капустин С.С.",
     "importance": "Низкая",
     "equipment": "Коммутатор",
-    "message": "Потеряно сетевое соединение"
+    "message": "Потеряно сетевое соединение",
+    "isRead": false
   },
   {
     "id": 24,
@@ -189,7 +212,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Низкая",
     "equipment": "Люк",
-    "message": "Открытая крышка"
+    "message": "Открытая крышка",
+    "isRead": false
   },
   {
     "id": 25,
@@ -197,7 +221,8 @@
     "userName": "Лавочкин А.В.",
     "importance": "Высокая",
     "equipment": "ИБП",
-    "message": "Низкий заряд батареи"
+    "message": "Низкий заряд батареи",
+    "isRead": false
   },
   {
     "id": 26,
@@ -205,7 +230,8 @@
     "userName": "Ольшанская Е.Г.",
     "importance": "Критическая",
     "equipment": "Трансформатор",
-    "message": "Недостаточное колличество масла"
+    "message": "Недостаточное колличество масла",
+    "isRead": false
   },
   {
     "id": 27,
@@ -213,7 +239,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Критическая",
     "equipment": "ЛВС",
-    "message": "Обрыв силового кабеля"
+    "message": "Обрыв силового кабеля",
+    "isRead": false
   },
   {
     "id": 28,
@@ -221,7 +248,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Критическая",
     "equipment": null,
-    "message": "Отсутствует подтверждение пуска в работу"
+    "message": "Отсутствует подтверждение пуска в работу",
+    "isRead": false
   },
   {
     "id": 29,
@@ -229,7 +257,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Высокая",
     "equipment": "Вегас",
-    "message": "Сервер Vegos недоступен"
+    "message": "Сервер Vegos недоступен",
+    "isRead": false
   },
   {
     "id": 30,
@@ -237,7 +266,8 @@
     "userName": "Капустин С.С.",
     "importance": "Низкая",
     "equipment": "Коммутатор",
-    "message": "Потеряно сетевое соединение"
+    "message": "Потеряно сетевое соединение",
+    "isRead": false
   },
   {
     "id": 31,
@@ -245,7 +275,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Низкая",
     "equipment": "Люк",
-    "message": "Открытая крышка"
+    "message": "Открытая крышка",
+    "isRead": false
   },
   {
     "id": 32,
@@ -253,7 +284,8 @@
     "userName": "Лавочкин А.В.",
     "importance": "Высокая",
     "equipment": "ИБП",
-    "message": "Низкий заряд батареи"
+    "message": "Низкий заряд батареи",
+    "isRead": false
   },
   {
     "id": 33,
@@ -261,7 +293,8 @@
     "userName": "Ольшанская Е.Г.",
     "importance": "Критическая",
     "equipment": "Трансформатор",
-    "message": "Недостаточное колличество масла"
+    "message": "Недостаточное колличество масла",
+    "isRead": false
   },
   {
     "id": 34,
@@ -269,7 +302,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Критическая",
     "equipment": "ЛВС",
-    "message": "Обрыв силового кабеля"
+    "message": "Обрыв силового кабеля",
+    "isRead": false
   },
   {
     "id": 35,
@@ -277,7 +311,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Критическая",
     "equipment": null,
-    "message": "Отсутствует подтверждение пуска в работу"
+    "message": "Отсутствует подтверждение пуска в работу",
+    "isRead": false
   },
   {
     "id": 36,
@@ -285,7 +320,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Высокая",
     "equipment": "Вегас",
-    "message": "Сервер Vegos недоступен"
+    "message": "Сервер Vegos недоступен",
+    "isRead": false
   },
   {
     "id": 37,
@@ -293,7 +329,8 @@
     "userName": "Капустин С.С.",
     "importance": "Низкая",
     "equipment": "Коммутатор",
-    "message": "Потеряно сетевое соединение"
+    "message": "Потеряно сетевое соединение",
+    "isRead": false
   },
   {
     "id": 38,
@@ -301,7 +338,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Низкая",
     "equipment": "Люк",
-    "message": "Открытая крышка"
+    "message": "Открытая крышка",
+    "isRead": false
   },
   {
     "id": 39,
@@ -309,7 +347,8 @@
     "userName": "Лавочкин А.В.",
     "importance": "Высокая",
     "equipment": "ИБП",
-    "message": "Низкий заряд батареи"
+    "message": "Низкий заряд батареи",
+    "isRead": false
   },
   {
     "id": 40,
@@ -317,7 +356,8 @@
     "userName": "Ольшанская Е.Г.",
     "importance": "Критическая",
     "equipment": "Трансформатор",
-    "message": "Недостаточное колличество масла"
+    "message": "Недостаточное колличество масла",
+    "isRead": false
   },
   {
     "id": 41,
@@ -325,7 +365,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Критическая",
     "equipment": "ЛВС",
-    "message": "Обрыв силового кабеля"
+    "message": "Обрыв силового кабеля",
+    "isRead": false
   },
   {
     "id": 42,
@@ -333,7 +374,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Критическая",
     "equipment": null,
-    "message": "Отсутствует подтверждение пуска в работу"
+    "message": "Отсутствует подтверждение пуска в работу",
+    "isRead": false
   },
   {
     "id": 43,
@@ -341,7 +383,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Высокая",
     "equipment": "Вегас",
-    "message": "Сервер Vegos недоступен"
+    "message": "Сервер Vegos недоступен",
+    "isRead": false
   },
   {
     "id": 44,
@@ -349,7 +392,8 @@
     "userName": "Капустин С.С.",
     "importance": "Низкая",
     "equipment": "Коммутатор",
-    "message": "Потеряно сетевое соединение"
+    "message": "Потеряно сетевое соединение",
+    "isRead": false
   },
   {
     "id": 45,
@@ -357,7 +401,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Низкая",
     "equipment": "Люк",
-    "message": "Открытая крышка"
+    "message": "Открытая крышка",
+    "isRead": false
   },
   {
     "id": 46,
@@ -365,7 +410,8 @@
     "userName": "Лавочкин А.В.",
     "importance": "Высокая",
     "equipment": "ИБП",
-    "message": "Низкий заряд батареи"
+    "message": "Низкий заряд батареи",
+    "isRead": false
   },
   {
     "id": 45,
@@ -373,7 +419,8 @@
     "userName": "Ольшанская Е.Г.",
     "importance": "Критическая",
     "equipment": "Трансформатор",
-    "message": "Недостаточное колличество масла"
+    "message": "Недостаточное колличество масла",
+    "isRead": false
   },
   {
     "id": 46,
@@ -381,7 +428,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Критическая",
     "equipment": "ЛВС",
-    "message": "Обрыв силового кабеля"
+    "message": "Обрыв силового кабеля",
+    "isRead": false
   },
   {
     "id": 47,
@@ -389,7 +437,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Критическая",
     "equipment": null,
-    "message": "Отсутствует подтверждение пуска в работу"
+    "message": "Отсутствует подтверждение пуска в работу",
+    "isRead": false
   },
   {
     "id": 48,
@@ -397,7 +446,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Высокая",
     "equipment": "Вегас",
-    "message": "Сервер Vegos недоступен"
+    "message": "Сервер Vegos недоступен",
+    "isRead": false
   },
   {
     "id": 49,
@@ -405,7 +455,8 @@
     "userName": "Капустин С.С.",
     "importance": "Низкая",
     "equipment": "Коммутатор",
-    "message": "Потеряно сетевое соединение"
+    "message": "Потеряно сетевое соединение",
+    "isRead": false
   },
   {
     "id": 50,
@@ -413,7 +464,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Низкая",
     "equipment": "Люк",
-    "message": "Открытая крышка"
+    "message": "Открытая крышка",
+    "isRead": false
   },
   {
     "id": 51,
@@ -421,7 +473,8 @@
     "userName": "Лавочкин А.В.",
     "importance": "Высокая",
     "equipment": "ИБП",
-    "message": "Низкий заряд батареи"
+    "message": "Низкий заряд батареи",
+    "isRead": false
   },
   {
     "id": 52,
@@ -429,7 +482,8 @@
     "userName": "Ольшанская Е.Г.",
     "importance": "Критическая",
     "equipment": "Трансформатор",
-    "message": "Недостаточное колличество масла"
+    "message": "Недостаточное колличество масла",
+    "isRead": false
   },
   {
     "id": 53,
@@ -437,7 +491,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Критическая",
     "equipment": "ЛВС",
-    "message": "Обрыв силового кабеля"
+    "message": "Обрыв силового кабеля",
+    "isRead": false
   },
   {
     "id": 54,
@@ -445,7 +500,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Критическая",
     "equipment": null,
-    "message": "Отсутствует подтверждение пуска в работу"
+    "message": "Отсутствует подтверждение пуска в работу",
+    "isRead": false
   },
   {
     "id": 55,
@@ -453,7 +509,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Высокая",
     "equipment": "Вегас",
-    "message": "Сервер Vegos недоступен"
+    "message": "Сервер Vegos недоступен",
+    "isRead": false
   },
   {
     "id": 56,
@@ -461,7 +518,8 @@
     "userName": "Капустин С.С.",
     "importance": "Низкая",
     "equipment": "Коммутатор",
-    "message": "Потеряно сетевое соединение"
+    "message": "Потеряно сетевое соединение",
+    "isRead": false
   },
   {
     "id": 57,
@@ -469,7 +527,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Низкая",
     "equipment": "Люк",
-    "message": "Открытая крышка"
+    "message": "Открытая крышка",
+    "isRead": false
   },
   {
     "id": 58,
@@ -477,7 +536,8 @@
     "userName": "Лавочкин А.В.",
     "importance": "Высокая",
     "equipment": "ИБП",
-    "message": "Низкий заряд батареи"
+    "message": "Низкий заряд батареи",
+    "isRead": false
   },
   {
     "id": 59,
@@ -485,7 +545,8 @@
     "userName": "Ольшанская Е.Г.",
     "importance": "Критическая",
     "equipment": "Трансформатор",
-    "message": "Недостаточное колличество масла"
+    "message": "Недостаточное колличество масла",
+    "isRead": false
   },
   {
     "id": 60,
@@ -493,7 +554,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Критическая",
     "equipment": "ЛВС",
-    "message": "Обрыв силового кабеля"
+    "message": "Обрыв силового кабеля",
+    "isRead": false
   },
   {
     "id": 61,
@@ -501,7 +563,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Критическая",
     "equipment": null,
-    "message": "Отсутствует подтверждение пуска в работу"
+    "message": "Отсутствует подтверждение пуска в работу",
+    "isRead": false
   },
   {
     "id": 62,
@@ -509,7 +572,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Высокая",
     "equipment": "Вегас",
-    "message": "Сервер Vegos недоступен"
+    "message": "Сервер Vegos недоступен",
+    "isRead": false
   },
   {
     "id": 63,
@@ -517,7 +581,8 @@
     "userName": "Капустин С.С.",
     "importance": "Низкая",
     "equipment": "Коммутатор",
-    "message": "Потеряно сетевое соединение"
+    "message": "Потеряно сетевое соединение",
+    "isRead": false
   },
   {
     "id": 64,
@@ -525,7 +590,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Низкая",
     "equipment": "Люк",
-    "message": "Открытая крышка"
+    "message": "Открытая крышка",
+    "isRead": false
   },
   {
     "id": 65,
@@ -533,7 +599,8 @@
     "userName": "Лавочкин А.В.",
     "importance": "Высокая",
     "equipment": "ИБП",
-    "message": "Низкий заряд батареи"
+    "message": "Низкий заряд батареи",
+    "isRead": false
   },
   {
     "id": 66,
@@ -541,7 +608,8 @@
     "userName": "Ольшанская Е.Г.",
     "importance": "Критическая",
     "equipment": "Трансформатор",
-    "message": "Недостаточное колличество масла"
+    "message": "Недостаточное колличество масла",
+    "isRead": false
   },
   {
     "id": 67,
@@ -549,7 +617,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Критическая",
     "equipment": "ЛВС",
-    "message": "Обрыв силового кабеля"
+    "message": "Обрыв силового кабеля",
+    "isRead": false
   },
   {
     "id": 68,
@@ -557,7 +626,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Критическая",
     "equipment": null,
-    "message": "Отсутствует подтверждение пуска в работу"
+    "message": "Отсутствует подтверждение пуска в работу",
+    "isRead": false
   },
   {
     "id": 69,
@@ -565,7 +635,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Высокая",
     "equipment": "Вегас",
-    "message": "Сервер Vegos недоступен"
+    "message": "Сервер Vegos недоступен",
+    "isRead": false
   },
   {
     "id": 70,
@@ -573,7 +644,8 @@
     "userName": "Капустин С.С.",
     "importance": "Низкая",
     "equipment": "Коммутатор",
-    "message": "Потеряно сетевое соединение"
+    "message": "Потеряно сетевое соединение",
+    "isRead": false
   },
   {
     "id": 71,
@@ -581,7 +653,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Низкая",
     "equipment": "Люк",
-    "message": "Открытая крышка"
+    "message": "Открытая крышка",
+    "isRead": false
   },
   {
     "id": 72,
@@ -589,7 +662,8 @@
     "userName": "Лавочкин А.В.",
     "importance": "Высокая",
     "equipment": "ИБП",
-    "message": "Низкий заряд батареи"
+    "message": "Низкий заряд батареи",
+    "isRead": false
   },
   {
     "id": 73,
@@ -597,7 +671,8 @@
     "userName": "Ольшанская Е.Г.",
     "importance": "Критическая",
     "equipment": "Трансформатор",
-    "message": "Недостаточное колличество масла"
+    "message": "Недостаточное колличество масла",
+    "isRead": false
   },
   {
     "id": 74,
@@ -605,7 +680,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Критическая",
     "equipment": "ЛВС",
-    "message": "Обрыв силового кабеля"
+    "message": "Обрыв силового кабеля",
+    "isRead": false
   },
   {
     "id": 75,
@@ -613,7 +689,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Критическая",
     "equipment": null,
-    "message": "Отсутствует подтверждение пуска в работу"
+    "message": "Отсутствует подтверждение пуска в работу",
+    "isRead": false
   },
   {
     "id": 76,
@@ -621,7 +698,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Высокая",
     "equipment": "Вегас",
-    "message": "Сервер Vegos недоступен"
+    "message": "Сервер Vegos недоступен",
+    "isRead": false
   },
   {
     "id": 77,
@@ -629,7 +707,8 @@
     "userName": "Капустин С.С.",
     "importance": "Низкая",
     "equipment": "Коммутатор",
-    "message": "Потеряно сетевое соединение"
+    "message": "Потеряно сетевое соединение",
+    "isRead": false
   },
   {
     "id": 78,
@@ -637,7 +716,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Низкая",
     "equipment": "Люк",
-    "message": "Открытая крышка"
+    "message": "Открытая крышка",
+    "isRead": false
   },
   {
     "id": 79,
@@ -645,7 +725,8 @@
     "userName": "Лавочкин А.В.",
     "importance": "Высокая",
     "equipment": "ИБП",
-    "message": "Низкий заряд батареи"
+    "message": "Низкий заряд батареи",
+    "isRead": false
   },
   {
     "id": 80,
@@ -653,7 +734,8 @@
     "userName": "Ольшанская Е.Г.",
     "importance": "Критическая",
     "equipment": "Трансформатор",
-    "message": "Недостаточное колличество масла"
+    "message": "Недостаточное колличество масла",
+    "isRead": false
   },
   {
     "id": 81,
@@ -661,7 +743,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Критическая",
     "equipment": "ЛВС",
-    "message": "Обрыв силового кабеля"
+    "message": "Обрыв силового кабеля",
+    "isRead": false
   },
   {
     "id": 82,
@@ -669,7 +752,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Критическая",
     "equipment": null,
-    "message": "Отсутствует подтверждение пуска в работу"
+    "message": "Отсутствует подтверждение пуска в работу",
+    "isRead": false
   },
   {
     "id": 83,
@@ -677,7 +761,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Высокая",
     "equipment": "Вегас",
-    "message": "Сервер Vegos недоступен"
+    "message": "Сервер Vegos недоступен",
+    "isRead": false
   },
   {
     "id": 84,
@@ -685,7 +770,8 @@
     "userName": "Капустин С.С.",
     "importance": "Низкая",
     "equipment": "Коммутатор",
-    "message": "Потеряно сетевое соединение"
+    "message": "Потеряно сетевое соединение",
+    "isRead": false
   },
   {
     "id": 85,
@@ -693,7 +779,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Низкая",
     "equipment": "Люк",
-    "message": "Открытая крышка"
+    "message": "Открытая крышка",
+    "isRead": false
   },
   {
     "id": 86,
@@ -701,7 +788,8 @@
     "userName": "Лавочкин А.В.",
     "importance": "Высокая",
     "equipment": "ИБП",
-    "message": "Низкий заряд батареи"
+    "message": "Низкий заряд батареи",
+    "isRead": false
   },
   {
     "id": 87,
@@ -709,7 +797,8 @@
     "userName": "Ольшанская Е.Г.",
     "importance": "Критическая",
     "equipment": "Трансформатор",
-    "message": "Недостаточное колличество масла"
+    "message": "Недостаточное колличество масла",
+    "isRead": false
   },
   {
     "id": 88,
@@ -717,7 +806,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Критическая",
     "equipment": "ЛВС",
-    "message": "Обрыв силового кабеля"
+    "message": "Обрыв силового кабеля",
+    "isRead": false
   },
   {
     "id": 89,
@@ -725,7 +815,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Критическая",
     "equipment": null,
-    "message": "Отсутствует подтверждение пуска в работу"
+    "message": "Отсутствует подтверждение пуска в работу",
+    "isRead": false
   },
   {
     "id": 90,
@@ -733,7 +824,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Высокая",
     "equipment": "Вегас",
-    "message": "Сервер Vegos недоступен"
+    "message": "Сервер Vegos недоступен",
+    "isRead": false
   },
   {
     "id": 91,
@@ -741,7 +833,8 @@
     "userName": "Капустин С.С.",
     "importance": "Низкая",
     "equipment": "Коммутатор",
-    "message": "Потеряно сетевое соединение"
+    "message": "Потеряно сетевое соединение",
+    "isRead": false
   },
   {
     "id": 92,
@@ -749,7 +842,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Низкая",
     "equipment": "Люк",
-    "message": "Открытая крышка"
+    "message": "Открытая крышка",
+    "isRead": false
   },
   {
     "id": 93,
@@ -757,7 +851,8 @@
     "userName": "Лавочкин А.В.",
     "importance": "Высокая",
     "equipment": "ИБП",
-    "message": "Низкий заряд батареи"
+    "message": "Низкий заряд батареи",
+    "isRead": false
   },
   {
     "id": 94,
@@ -765,7 +860,8 @@
     "userName": "Ольшанская Е.Г.",
     "importance": "Критическая",
     "equipment": "Трансформатор",
-    "message": "Недостаточное колличество масла"
+    "message": "Недостаточное колличество масла",
+    "isRead": false
   },
   {
     "id": 95,
@@ -773,7 +869,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Критическая",
     "equipment": "ЛВС",
-    "message": "Обрыв силового кабеля"
+    "message": "Обрыв силового кабеля",
+    "isRead": false
   },
   {
     "id": 96,
@@ -781,7 +878,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Критическая",
     "equipment": null,
-    "message": "Отсутствует подтверждение пуска в работу"
+    "message": "Отсутствует подтверждение пуска в работу",
+    "isRead": false
   },
   {
     "id": 97,
@@ -789,7 +887,8 @@
     "userName": "Смирнов В.А.",
     "importance": "Высокая",
     "equipment": "Вегас",
-    "message": "Сервер Vegos недоступен"
+    "message": "Сервер Vegos недоступен",
+    "isRead": false
   },
   {
     "id": 98,
@@ -797,7 +896,8 @@
     "userName": "Капустин С.С.",
     "importance": "Низкая",
     "equipment": "Коммутатор",
-    "message": "Потеряно сетевое соединение"
+    "message": "Потеряно сетевое соединение",
+    "isRead": false
   },
   {
     "id": 99,
@@ -805,7 +905,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Низкая",
     "equipment": "Люк",
-    "message": "Открытая крышка"
+    "message": "Открытая крышка",
+    "isRead": false
   },
   {
     "id": 100,
@@ -813,7 +914,8 @@
     "userName": "Лавочкин А.В.",
     "importance": "Высокая",
     "equipment": "ИБП",
-    "message": "Низкий заряд батареи"
+    "message": "Низкий заряд батареи",
+    "isRead": false
   },
   {
     "id": 101,
@@ -821,7 +923,8 @@
     "userName": "Ольшанская Е.Г.",
     "importance": "Критическая",
     "equipment": "Трансформатор",
-    "message": "Недостаточное колличество масла"
+    "message": "Недостаточное колличество масла",
+    "isRead": false
   },
   {
     "id": 102,
@@ -829,7 +932,8 @@
     "userName": "Ветрова И.С.",
     "importance": "Критическая",
     "equipment": "ЛВС",
-    "message": "Обрыв силового кабеля"
+    "message": "Обрыв силового кабеля",
+    "isRead": false
   },
   {
     "id": 103,
@@ -837,6 +941,7 @@
     "userName": "Смирнов В.А.",
     "importance": "Критическая",
     "equipment": null,
-    "message": "Отсутствует подтверждение пуска в работу"
+    "message": "Отсутствует подтверждение пуска в работу",
+    "isRead": false
   }
 ]
