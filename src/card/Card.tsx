@@ -1,14 +1,10 @@
-import React, { FC, useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import styles from './Card.module.scss'
 import Image from 'next/image';
 import _switch from '@/store/switch';
 import { observer } from 'mobx-react-lite';
-interface IData {
-  date: string;
-  i: number;
-}
 
-const Card: FC<IData> = observer(({ date, i }) => {
+const Card= observer(({i}:{i: number}) => {
   const [card, setCard] = useState(`${styles.card}`)
   useEffect(()=>{
     if(_switch.data[i].id === _switch.current) {
@@ -33,7 +29,7 @@ const Card: FC<IData> = observer(({ date, i }) => {
           <li>Сообщение</li>
         </ul>
         <ul className={styles.list}>
-          <li>{date}</li>
+          <li>{_switch.data[i].date}</li>
           <li>
             {_switch.data[i].isRead ?
             <span className={`${styles.isRead} ${styles.isRead_done}`}>X</span>:

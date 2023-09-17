@@ -11,10 +11,9 @@ const CardContainer = observer(() => {
     <div
       className={styles.container}
     >
-      {_switch.data.slice(paginator.first, paginator.first + paginator.rows).map((_, i) => 
+      {Boolean(_switch.data.length) &&_switch.data.slice(paginator.first, paginator.first + paginator.rows).map((_, i) => 
         <Card
           key={i+paginator.first}
-          date={useDate()}
           i={i+paginator.first}
         />)}
     </div>
