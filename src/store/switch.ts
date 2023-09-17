@@ -15,7 +15,6 @@ class Switch {
 
   setButton(e: string){
     if(e) this.button = e
-    console.log(this.button)
   }
 
   mark(id: number){
