@@ -11,7 +11,7 @@ const CardContainer = observer(() => {
     <div
       className={styles.container}
     >
-      {Boolean(_switch.data.length) &&_switch.data.slice(paginator.first, paginator.first + paginator.rows).map((_, i) => 
+      {Boolean(_switch.data.length) &&_switch.data.slice(paginator.first, paginator.first + paginator.rows).map((_: any, i: number) => 
         <Card
           key={i+paginator.first}
           i={i+paginator.first}
