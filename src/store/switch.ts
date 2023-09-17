@@ -6,6 +6,7 @@ class Switch {
   button = this.chose[0]
   data = data
   URL ='past API here'
+  current = 0
   
   constructor(){
     makeAutoObservable(this)
@@ -22,6 +23,12 @@ class Switch {
       .then(response => response.json())
       .then(json => {
         this.data = [...json]
+      })
+  }
+
+  mark(id: number){
+    this.current = id
+  }
       })
   }
 }
