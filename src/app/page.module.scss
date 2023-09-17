@@ -1,6 +1,7 @@
 @import './../mixins.scss';
 
 .main {
-  height: 100%;
+  height: 86%;
   @include container();
+  overflow: hidden;
 }
