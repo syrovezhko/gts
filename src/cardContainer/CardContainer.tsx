@@ -3,7 +3,6 @@ import styles from './CardContainer.module.scss'
 import Card from '@/card/Card';
 import _switch from '@/store/switch';
 import { observer } from 'mobx-react-lite';
-import useDate from '@/hooks/useDate';
 import paginator from '@/store/paginator';
 import search from '@/store/search';
 
