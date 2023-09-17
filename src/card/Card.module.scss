@@ -1,3 +1,62 @@
+@import './../mixins.scss';
+
 .card {
-  border: 2px solid red;
+  cursor: pointer;
+  padding: 1rem;
+  font-size: 1.2rem;
+  line-height: 1.2rem;
+  border: 2px solid black;
+  background-color: rgb(230, 230, 230);
+  @include flexColumn();
+  &_active {
+    background-color: rgb(166, 204, 164);
+  }
+  &__container {
+    @include flexRow();
+    gap: 1rem;
+    &:last-child{
+    }
+  }
+}
+
+.list {
+  list-style: none;
+  width: 9rem;
+  @include flexColumn();
+  > li {
+    @include flexRow();
+    align-items: center;
+  }
+  &:last-of-type{
+    flex-grow: 2;
+  }
+}
+
+.user {
+  @include flexColumn();
+  align-items: center;
+  width: 10rem;
+  &__img {
+    border-radius: 50%;
+  }
+}
+
+.message {
+  @include flexRow();
+  & > p:first-of-type {
+    width: 9rem;
+  }
+}
+
+.isRead {
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid black;
+  margin-right: 1rem;
+  background-color: #fff;
+  background-color: transparent;
+  &_done {
+    background-color: rgb(166, 204, 164);
+    padding: 0.4rem 0.5rem;
+  }
 }
