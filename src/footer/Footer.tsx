@@ -8,9 +8,8 @@ import _switch from '@/store/switch';
 
 const Footer = observer(() => {
   return (
-    <div className={styles.footer}>
-      <Paginator
-        // template={template1}
+    <footer className={styles.footer}>
+      {Boolean(_switch.data.length > paginator.rows) &&<Paginator
         first={paginator.first}
         rows={paginator.rows}
         totalRecords={_switch.data.length }
@@ -18,10 +17,8 @@ const Footer = observer(() => {
           paginator.setFirst(e.first)
           paginator.setRows(e.rows)
         }}
-        // leftContent={leftContent}
-        // rightContent={rightContent}
-      />
-    </div>
+      />}
+    </footer>
   );
 });
 
