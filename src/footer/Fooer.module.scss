@@ -1,0 +1,8 @@
+@import './../mixins.scss';
+
+.footer {
+  @include container();
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 1rem;
+}
