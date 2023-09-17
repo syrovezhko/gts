@@ -1,7 +1,7 @@
 import { makeAutoObservable } from "mobx"
 
 class Paginator {
-  first = 1
+  first = 0
   rows = 12 
 
   constructor(){
